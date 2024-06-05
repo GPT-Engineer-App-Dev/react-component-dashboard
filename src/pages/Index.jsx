@@ -87,8 +87,7 @@ const Index = () => {
                       <Flex justify="space-between" w="full">
                         <Text fontSize="sm" fontWeight="medium" color="gray.800">Shopping</Text>
                         <Text fontSize="sm" color="gray.800">1.378.200</Text>
-                      </Flex>
-                      <Box bg="gray.100" w="full" h="5px" borderRadius="md">
+                      </Flex                      <Box bg="gray.100" w="full" h="5px" borderRadius="md">
                         <Box bg="green.400" w="full" h="full" borderRadius="md" />
                       </Box>
                       <Flex justify="space-between" w="full">
